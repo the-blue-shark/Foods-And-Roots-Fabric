@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "none",
-	"icon": "assets/foods-and-roots/textures/item/pop_corn.png",
+	"icon": "assets/foods_and_roots/textures/item/pop_corn.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -22,7 +22,7 @@
 			"net.the_blue_shark.foods_and_roots.FoodsAndRootsModDataGenerator"
 		],
 
-		"client": [
+		"fabric-client": [
 			"net.the_blue_shark.foods_and_roots.FoodsAndRootsModClient"
 		]
 	},
